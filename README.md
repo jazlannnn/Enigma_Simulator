@@ -8,7 +8,9 @@ The purpose of this simulator is to replicate that process, allowing users to co
 
 For more detailed information about the history and mechanics of the Enigma machine, please refer to this article: https://www.codeproject.com/Articles/831015/ENIGMA
 
+
 The simulator allows the user to:
+
 - Select and configure rotors.
 - Set initial rotor positions.
 - Configure ring settings for each rotor.
