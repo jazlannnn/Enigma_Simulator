@@ -16,15 +16,18 @@ For more detailed information about the history and mechanics of the Enigma mach
 - Choose a reflector (Reflector I or Reflector II).
 - Encrypt and decrypt messages.
 
-# Example of the Application
+# Output of the Application
 
 Sample Input 1
+- Simple Input 
 ![Screenshot 2024-11-14 171552](https://github.com/user-attachments/assets/28af7e2e-d629-4d50-b57d-aba7fdf7609e)
 
 Sample Input 2
+- Moderate Complexity Input 
 ![Screenshot 2024-11-14 173406](https://github.com/user-attachments/assets/21cb8c68-4018-4c05-a909-d7e940e26417)
 
-Sample Input 3
+Sample Input 3 
+- High Complexity Input
 ![Screenshot 2024-11-14 172006](https://github.com/user-attachments/assets/0797b26e-392b-49c2-8bdc-633c436f8f7e)
 
 ## Conclusion
