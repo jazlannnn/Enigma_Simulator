@@ -1,7 +1,7 @@
 # Enigma Simulator Application
 
 
-Introduction
+## Introduction
 The Enigma Simulator is a software implementation of the Enigma machine, originally used by Germany during World War II for encrypting and decrypting messages. 
 The Enigma machine works by passing the message through several rotors and a plugboard, each of which changes the message in a specific way. 
 The purpose of this simulator is to replicate that process, allowing users to configure the machine’s settings and encrypt or decrypt messages based on those settings.
